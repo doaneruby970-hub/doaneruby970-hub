@@ -1,14 +1,15 @@
 # Yingqiang M.
 
-Python automation developer focused on web scraping, browser automation, API integration, and workflow systems.
+Automation and backend developer focused on Python automation, Java Spring Boot APIs, web scraping, API integration, and workflow systems.
 
-I build practical automation that collects data, connects tools, runs repeatable workflows, and produces clean outputs that non-technical users can review. My strongest work is in Python, Playwright, FastAPI, PostgreSQL, n8n-style orchestration, and structured CSV/JSON exports.
+I build practical automation that collects data, connects tools, runs repeatable workflows, and produces clean outputs that non-technical users can review. My strongest work is in Python, Playwright, FastAPI, Java Spring Boot, PostgreSQL, n8n-style orchestration, and structured CSV/JSON exports.
 
 ## What I Build
 
 - Browser automation for dynamic websites with Playwright
 - Web scraping and product/catalog monitoring pipelines
 - API integrations and workflow automation
+- Java Spring Boot APIs for CRM and business workflow backends
 - FastAPI backends for small automation products
 - Data extraction into CSV, JSON, SQLite, PostgreSQL, or Excel-style outputs
 - Retry, checkpoint, logging, and handoff documentation for maintainable scripts
