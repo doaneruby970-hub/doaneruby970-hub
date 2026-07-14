@@ -17,6 +17,7 @@ I build practical automation that collects data, connects tools, runs repeatable
 
 | Project | What it shows |
 |---|---|
+| [Lead Automation Hub](https://github.com/doaneruby970-hub/lead-automation-hub) | Java Spring Boot API for lead capture, scoring, deduplication, PostgreSQL persistence, and CRM webhook delivery |
 | [Product Catalog Monitor](https://github.com/doaneruby970-hub/product-catalog-monitor) | Python + Playwright + PostgreSQL + n8n workflow for catalog extraction, change detection, retries, checkpoints, and JSON/CSV exports |
 | [Product Catalog Monitor Case Study](https://github.com/doaneruby970-hub/product-catalog-monitor/blob/main/UPWORK_CASE_STUDY.md) | Client-facing explanation of the business problem, delivery scope, and automation proof points |
 | [AgentFlow Desk](https://github.com/doaneruby970-hub/agentflow-desk) | FastAPI reference backend for AI-assisted ticket classification, workflow routing, Celery jobs, PostgreSQL models, and LLM integration |
